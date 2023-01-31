@@ -28,3 +28,5 @@ for data in embedded_lists:
 for item in dict_data.values():
     for embed_value in item.values():
         print(embed_value)
+
+
